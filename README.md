@@ -1,16 +1,149 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**saqibcheema/saqibcheema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Saqib+Cheema+%F0%9F%91%8B;Flutter+%26+Android+Developer;Building+AI-Powered+Mobile+Apps;Open+to+Remote+%E2%80%94+EU+%7C+Middle+East)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mobile Engineer · Flutter & Kotlin/Compose · Clean Architecture · AI Integration**  
+📍 Wazirabad, Pakistan &nbsp;·&nbsp; 🌍 Open to Remote (EU / Middle East)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqib-cheema)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saqibyu961@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saqibcheema)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I build **production-grade mobile apps** that are clean under the hood and polished on the surface.
+
+My focus is cross-platform (Flutter) and native Android (Kotlin + Jetpack Compose) — architected with **Clean Architecture, MVVM, and offline-first design** so apps stay fast and maintainable as they scale.
+
+What sets me apart from most junior devs:
+- I don't just make things work — I architect them to **last**
+- I integrate **AI features** (Gemini Vision API, ML Kit) into real mobile products
+- I think about UX, offline behaviour, and data flow — not just UI code
+
+Currently: 2nd year CS student at University of Chenab · Available for **remote full-time or contract roles**
+
+---
+
+## 🛠️ Tech Stack
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+### Architecture & Patterns
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6366F1?style=flat-square)
+![MVVM](https://img.shields.io/badge/MVVM-8B5CF6?style=flat-square)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-7C3AED?style=flat-square)
+![Offline First](https://img.shields.io/badge/Offline--First-4F46E5?style=flat-square)
+
+### Backend & Data
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Room](https://img.shields.io/badge/Room_Database-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=flat-square)
+
+### AI & ML
+![Gemini API](https://img.shields.io/badge/Gemini_Vision_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![ML Kit](https://img.shields.io/badge/ML_Kit-FF6F00?style=flat-square&logo=google&logoColor=white)
+
+### State Management
+![Bloc](https://img.shields.io/badge/BLoC-13B9FD?style=flat-square)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt_DI-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🥗 [calourie_ai](https://github.com/saqibcheema/calourie_ai) — AI Calorie & Macro Tracker
+> Native Android · Kotlin · Jetpack Compose · Clean Architecture · Room · ML Kit
+
+A production-architecture Android app for tracking daily nutrition. Built the way a senior engineer would build it — not a tutorial project.
+
+- **3 macros tracked** (protein, carbs, fat) with BMR/TDEE personalised goals
+- **Offline-first** — Room database keeps everything working without internet
+- **ML Kit barcode scanner** — scan any packaged food for instant nutrition data
+- **Layered Clean Architecture** — data, domain, and presentation fully separated
+- Full MVVM with Hilt dependency injection
+
+---
+
+### 🔭 [image-upscalar-app](https://github.com/saqibcheema/image-upscalar-app) — AI Image Enhancer
+> Flutter · Dart · Gemini Vision API · Lottie Animations
+
+Cross-platform app that enhances low-resolution images using Gemini Vision API with a custom integration layer. Real-time processing with smooth UI transitions and Lottie micro-animations.
+
+---
+
+### 💬 [Chat_App_Flutter](https://github.com/saqibcheema/Chat_App_Flutter) — Real-time Messenger
+> Flutter · Firebase Auth · Firestore · Realtime Database
+
+Full-stack chat application with Firebase Auth, real-time message sync, and anonymous user support. Foundation for the location-based ephemeral chat app currently in development.
+
+---
+
+### 🌍 [Disease_Tracker_App](https://github.com/saqibcheema/Disease_Tracker_App) — Health Data Visualiser
+> Flutter · Dart · REST APIs
+
+Global and country-level disease statistics app with nearby medical centre lookup and personalised health recommendations.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Saqib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saqibcheema&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saqibcheema&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=saqibcheema&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📜 Certifications
+
+| Certificate | Issuer |
+|-------------|--------|
+| Prompt Engineering for ChatGPT | Vanderbilt University (Coursera) |
+| Monitor and Manage Google Cloud Resources | Google Cloud |
+| The Basics of Google Cloud Compute | Google Cloud |
+| Introduction to Generative AI | Google |
+| Cybersecurity Crash Course | Dicecamp |
+
+---
+
+## 🌐 What I'm Looking For
+
+I'm actively looking for **remote junior mobile developer roles** with EU or Middle East startups where I can:
+
+- Ship real mobile products used by real people
+- Work with a senior engineer I can learn from
+- Contribute to both Flutter and Android (Kotlin) codebases
+- Grow into a mid-level engineer within 12–18 months
+
+I'm in **Pakistan Standard Time (UTC+5)** — comfortable with EU business hours overlap (mornings my time).
+
+📩 **Reach me:** [saqibyu961@gmail.com](mailto:saqibyu961@gmail.com) · [LinkedIn](https://www.linkedin.com/in/saqib-cheema)
+
+---
+
+<div align="center">
+
+*"First, make it work. Then make it right. Then make it fast."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=saqibcheema&color=6366F1&style=flat-square)
+
+</div>
