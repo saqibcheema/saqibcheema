@@ -65,37 +65,39 @@ Currently: 2nd year CS student at University of Chenab · Available for **remote
 
 ## 🚀 Featured Projects
 
-### 🥗 [calourie_ai](https://github.com/saqibcheema/calourie_ai) — AI Calorie & Macro Tracker
-> Native Android · Kotlin · Jetpack Compose · Clean Architecture · Room · ML Kit
+### 📱 [Calourie AI](https://github.com/saqibcheema/calourie_ai) — Smart Nutrition Tracker
 
-A production-architecture Android app for tracking daily nutrition. Built the way a senior engineer would build it — not a tutorial project.
+A modern **Native Android** calorie tracking app powered by AI-assisted barcode scanning and manual meal entry. Built with production-grade architecture and a clean, performant UI.
 
-- **3 macros tracked** (protein, carbs, fat) with BMR/TDEE personalised goals
-- **Offline-first** — Room database keeps everything working without internet
-- **ML Kit barcode scanner** — scan any packaged food for instant nutrition data
-- **Layered Clean Architecture** — data, domain, and presentation fully separated
-- Full MVVM with Hilt dependency injection
+**Key Features:**
+- 🔍 **Smart Barcode Scanning** — Uses ML Kit + CameraX to scan products and fetch nutrition data via the OpenFoodFacts API
+- 🍽️ **Manual Meal Entry** — Log custom meals with portion, grams, and meal type validation
+- 📊 **Dynamic Dashboard** — Real-time calorie and macro tracking (protein / carbs / fat)
+- 🎯 **Goal Calculator** — Automated BMR & TDEE-based daily macro goal calculation during onboarding
+- 🗄️ **Offline-First** — All data persisted locally with Room; works without internet
+- 🕘 **Search & History** — Quickly access previously scanned items from the local cache
 
----
-
-### 🔭 [image-upscalar-app](https://github.com/saqibcheema/image-upscalar-app) — AI Image Enhancer
-> Flutter · Dart · Gemini Vision API · Lottie Animations
-
-Cross-platform app that enhances low-resolution images using Gemini Vision API with a custom integration layer. Real-time processing with smooth UI transitions and Lottie micro-animations.
+**Tech Stack:** `Kotlin` · `Jetpack Compose` · `Clean Architecture` · `MVVM + MVI-lite` · `Dagger Hilt` · `Room` · `Retrofit` · `ML Kit` · `CameraX` · `Coil` · `Coroutines + Flow`
 
 ---
 
-### 💬 [Chat_App_Flutter](https://github.com/saqibcheema/Chat_App_Flutter) — Real-time Messenger
-> Flutter · Firebase Auth · Firestore · Realtime Database
+### 💬 [Chat App Flutter](https://github.com/saqibcheema/Chat_App_Flutter) — Real-Time & Geo-Based Anonymous Chat ⚠️ *In Progress*
 
-Full-stack chat application with Firebase Auth, real-time message sync, and anonymous user support. Foundation for the location-based ephemeral chat app currently in development.
+A real-time messaging application built with **Flutter & Firebase**, featuring user authentication and instant chat. Currently being extended with a geo-location based anonymous chat system.
 
----
+**Current Features:**
+- 🔐 User authentication (Firebase Auth)
+- 💬 Real-time instant messaging (Firebase Firestore)
 
-### 🌍 [Disease_Tracker_App](https://github.com/saqibcheema/Disease_Tracker_App) — Health Data Visualiser
-> Flutter · Dart · REST APIs
+**🌍 Upcoming Feature — Geo-Location Anonymous Chat Rooms:**
+> This feature will transform the app into a proximity-based anonymous social experience.
 
-Global and country-level disease statistics app with nearby medical centre lookup and personalised health recommendations.
+- 📍 **Location-Based Rooms** — Users can create a chat room with a custom radius (e.g. 200m, 500m, 1km or more). Only people physically within that radius can discover and join the room
+- 🕶️ **Fully Anonymous** — No usernames or accounts needed to participate; users join as anonymous participants
+- ⏱️ **Auto-Delete** — Chat rooms automatically expire and delete after **2 hours**, keeping conversations ephemeral and private
+- 🗺️ **Radius Control** — Room creators set the geographic boundary; the room is invisible to anyone outside it
+
+**Tech Stack:** `Flutter` · `Dart` · `Firebase Auth` · `Cloud Firestore` · `Geoflutterfire` · `Geolocator`
 
 ---
 
