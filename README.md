@@ -6,7 +6,7 @@
 <br/>
 
 **Mobile Engineer · Flutter & Kotlin/Compose · Clean Architecture · AI Integration**  
-📍 Wazirabad, Pakistan &nbsp;·&nbsp; 🌍 Open to Remote (EU / Middle East)
+ Wazirabad, Pakistan &nbsp;·&nbsp;  Open to Remote (EU / Middle East)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqib-cheema)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saqibyu961@gmail.com)
@@ -18,16 +18,13 @@
 
 ## 🧑‍💻 About Me
 
-I build **production-grade mobile apps** that are clean under the hood and polished on the surface.
+I build **mobile apps** that need to work in the **real world**, not just in tutorials.
 
-My focus is cross-platform (Flutter) and native Android (Kotlin + Jetpack Compose) — architected with **Clean Architecture, MVVM, and offline-first design** so apps stay fast and maintainable as they scale.
+Most of my work is in **Flutter** and **native Android** with **Kotlin** and **Jetpack Compose**. I care about **architecture** that doesn't fall apart when the project grows, so I use **Clean Architecture** and **MVVM** with proper **separation of concerns**. **Data persistence**, **offline behavior**, **state management** — I think about all of it **upfront**, not as an afterthought.
 
-What sets me apart from most junior devs:
-- I don't just make things work — I architect them to **last**
-- I integrate **AI features** (Gemini Vision API, ML Kit) into real mobile products
-- I think about UX, offline behaviour, and data flow — not just UI code
+The difference between me and most **juniors**? I don't just chase **features** that **demo well**. I build **systems** that other **developers** can actually **maintain** six months later.
 
-Currently: 2nd year CS student at University of Chenab · Available for **remote full-time or contract roles**
+Currently in my **Third year** at **University of Chenab**. Looking for **remote** **full-time** or **contract** work where I can **ship real products** with **real users**.
 
 ---
 
@@ -63,39 +60,39 @@ Currently: 2nd year CS student at University of Chenab · Available for **remote
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📱 [Calourie AI](https://github.com/saqibcheema/calourie_ai) — Smart Nutrition Tracker
+###[Calourie AI](https://github.com/saqibcheema/calourie_ai) — Smart Nutrition Tracker
 
 A modern **Native Android** calorie tracking app powered by AI-assisted barcode scanning and manual meal entry. Built with production-grade architecture and a clean, performant UI.
 
 **Key Features:**
-- 🔍 **Smart Barcode Scanning** — Uses ML Kit + CameraX to scan products and fetch nutrition data via the OpenFoodFacts API
-- 🍽️ **Manual Meal Entry** — Log custom meals with portion, grams, and meal type validation
-- 📊 **Dynamic Dashboard** — Real-time calorie and macro tracking (protein / carbs / fat)
-- 🎯 **Goal Calculator** — Automated BMR & TDEE-based daily macro goal calculation during onboarding
-- 🗄️ **Offline-First** — All data persisted locally with Room; works without internet
-- 🕘 **Search & History** — Quickly access previously scanned items from the local cache
+- **Smart Barcode Scanning** — Uses ML Kit + CameraX to scan products and fetch nutrition data via the OpenFoodFacts API
+- **Manual Meal Entry** — Log custom meals with portion, grams, and meal type validation
+- **Dynamic Dashboard** — Real-time calorie and macro tracking (protein / carbs / fat)
+- **Goal Calculator** — Automated BMR & TDEE-based daily macro goal calculation during onboarding
+- **Offline-First** — All data persisted locally with Room; works without internet
+- **Search & History** — Quickly access previously scanned items from the local cache
 
 **Tech Stack:** `Kotlin` · `Jetpack Compose` · `Clean Architecture` · `MVVM + MVI-lite` · `Dagger Hilt` · `Room` · `Retrofit` · `ML Kit` · `CameraX` · `Coil` · `Coroutines + Flow`
 
 ---
 
-### 💬 [Chat App Flutter](https://github.com/saqibcheema/Chat_App_Flutter) — Real-Time & Geo-Based Anonymous Chat ⚠️ *In Progress*
+###[Chat App Flutter](https://github.com/saqibcheema/Chat_App_Flutter) — Real-Time & Geo-Based Anonymous Chat ⚠️ *In Progress*
 
 A real-time messaging application built with **Flutter & Firebase**, featuring user authentication and instant chat. Currently being extended with a geo-location based anonymous chat system.
 
 **Current Features:**
-- 🔐 User authentication (Firebase Auth)
-- 💬 Real-time instant messaging (Firebase Firestore)
+- User authentication (Firebase Auth)
+- Real-time instant messaging (Firebase Firestore)
 
-**🌍 Upcoming Feature — Geo-Location Anonymous Chat Rooms:**
+**Upcoming Feature — Geo-Location Anonymous Chat Rooms:**
 > This feature will transform the app into a proximity-based anonymous social experience.
 
-- 📍 **Location-Based Rooms** — Users can create a chat room with a custom radius (e.g. 200m, 500m, 1km or more). Only people physically within that radius can discover and join the room
-- 🕶️ **Fully Anonymous** — No usernames or accounts needed to participate; users join as anonymous participants
-- ⏱️ **Auto-Delete** — Chat rooms automatically expire and delete after **2 hours**, keeping conversations ephemeral and private
-- 🗺️ **Radius Control** — Room creators set the geographic boundary; the room is invisible to anyone outside it
+- **Location-Based Rooms** — Users can create a chat room with a custom radius (e.g. 200m, 500m, 1km or more). Only people physically within that radius can discover and join the room
+- **Fully Anonymous** — No usernames or accounts needed to participate; users join as anonymous participants
+- **Auto-Delete** — Chat rooms automatically expire and delete after **2 hours**, keeping conversations ephemeral and private
+- **Radius Control** — Room creators set the geographic boundary; the room is invisible to anyone outside it
 
 **Tech Stack:** `Flutter` · `Dart` · `Firebase Auth` · `Cloud Firestore` · `Geoflutterfire` · `Geolocator`
 
@@ -112,18 +109,6 @@ A real-time messaging application built with **Flutter & Firebase**, featuring u
 ![GitHub Streak](https://streak-stats.demolab.com?user=saqibcheema&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 📜 Certifications
-
-| Certificate | Issuer |
-|-------------|--------|
-| Prompt Engineering for ChatGPT | Vanderbilt University (Coursera) |
-| Monitor and Manage Google Cloud Resources | Google Cloud |
-| The Basics of Google Cloud Compute | Google Cloud |
-| Introduction to Generative AI | Google |
-| Cybersecurity Crash Course | Dicecamp |
 
 ---
 
