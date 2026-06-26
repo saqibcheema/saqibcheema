@@ -75,27 +75,6 @@ A modern **Native Android** calorie tracking app powered by AI-assisted barcode 
 - **Search & History** — Quickly access previously scanned items from the local cache
 
 **Tech Stack:** `Kotlin` · `Jetpack Compose` · `Clean Architecture` · `MVVM + MVI-lite` · `Dagger Hilt` · `Room` · `Retrofit` · `ML Kit` · `CameraX` · `Coil` · `Coroutines + Flow`
-
----
-
-###[Chat App Flutter](https://github.com/saqibcheema/Chat_App_Flutter) — Real-Time & Geo-Based Anonymous Chat ⚠️ *In Progress*
-
-A real-time messaging application built with **Flutter & Firebase**, featuring user authentication and instant chat. Currently being extended with a geo-location based anonymous chat system.
-
-**Current Features:**
-- User authentication (Firebase Auth)
-- Real-time instant messaging (Firebase Firestore)
-
-**Upcoming Feature — Geo-Location Anonymous Chat Rooms:**
-> This feature will transform the app into a proximity-based anonymous social experience.
-
-- **Location-Based Rooms** — Users can create a chat room with a custom radius (e.g. 200m, 500m, 1km or more). Only people physically within that radius can discover and join the room
-- **Fully Anonymous** — No usernames or accounts needed to participate; users join as anonymous participants
-- **Auto-Delete** — Chat rooms automatically expire and delete after **2 hours**, keeping conversations ephemeral and private
-- **Radius Control** — Room creators set the geographic boundary; the room is invisible to anyone outside it
-
-**Tech Stack:** `Flutter` · `Dart` · `Firebase Auth` · `Cloud Firestore` · `Geoflutterfire` · `Geolocator`
-
 ---
 
 ## 📊 GitHub Stats
