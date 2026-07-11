@@ -167,7 +167,7 @@ A modern Native Android calorie tracking application powered by AI-assisted nutr
 📧 **Email:** saqibyu961@gmail.com
 
 💼 **LinkedIn:**  
-https://www.linkedin.com/in/saqibcheema
+https://www.linkedin.com/in/saqib-cheema
 
 🐙 **GitHub:**  
 https://github.com/saqibcheema
