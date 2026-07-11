@@ -1,115 +1,183 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Muhammad Saqib Ali</h1>
 
-<!-- Typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Saqib+Cheema+%F0%9F%91%8B;Flutter+%26+Android+Developer;Building+AI-Powered+Mobile+Apps;Open+to+Remote+%E2%80%94+EU+%7C+Middle+East)](https://git.io/typing-svg)
+<p align="center">
+  <b>Mobile Engineer • Flutter & Kotlin/Compose • Clean Architecture • Open Source Enthusiast</b>
+</p>
 
-<br/>
+<p align="center">
+  📍 Wazirabad, Pakistan &nbsp;|&nbsp; 🚀 Transitioning from App-Level to System-Level Engineering
+</p>
 
-**Mobile Engineer · Flutter & Kotlin/Compose · Clean Architecture · AI Integration**  
- Wazirabad, Pakistan &nbsp;·&nbsp;  Open to Remote (EU / Middle East)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqib-cheema)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saqibyu961@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saqibcheema)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/saqibcheema">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:saqibyu961@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/saqibcheema">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I build **mobile apps** that need to work in the **real world**, not just in tutorials.
+I build mobile applications designed for real-world users, not just demo projects.
 
-Most of my work is in **Flutter** and **native Android** with **Kotlin** and **Jetpack Compose**. I care about **architecture** that doesn't fall apart when the project grows, so I use **Clean Architecture** and **MVVM** with proper **separation of concerns**. **Data persistence**, **offline behavior**, **state management** — I think about all of it **upfront**, not as an afterthought.
+My experience primarily revolves around **Flutter** and **Native Android Development** using **Kotlin**, **Jetpack Compose**, **Clean Architecture**, and **MVVM**. I focus on building maintainable, scalable systems that remain easy to extend long after the initial release.
 
-The difference between me and most **juniors**? I don't just chase **features** that **demo well**. I build **systems** that other **developers** can actually **maintain** six months later.
+Recently, my interests have expanded beyond application development. I'm actively exploring **C++**, **Data Structures & Algorithms**, and **system-level engineering** to better understand how frameworks, compilers, and developer tooling work under the hood.
 
-Currently in my **Third year** at **University of Chenab**. Looking for **remote** **full-time** or **contract** work where I can **ship real products** with **real users**.
+🎓 BS Computer Science Student — University of Chenab
+
+🎯 Long-Term Goal:
+Contribute deeply to Open Source and prepare for **Google Summer of Code (GSoC) 2027** while strengthening my understanding of software systems beyond the application layer.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" />
+</p>
+
+### Core Fundamentals
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</p>
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Problem Solving
 
 ### Architecture & Patterns
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6366F1?style=flat-square)
-![MVVM](https://img.shields.io/badge/MVVM-8B5CF6?style=flat-square)
-![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-7C3AED?style=flat-square)
-![Offline First](https://img.shields.io/badge/Offline--First-4F46E5?style=flat-square)
+
+- Clean Architecture
+- MVVM
+- Repository Pattern
+- Offline-First Development
 
 ### Backend & Data
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Room](https://img.shields.io/badge/Room_Database-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=flat-square)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</p>
+
+- Firebase
+- Room Database
+- Retrofit
+- REST APIs
 
 ### AI & ML
-![Gemini API](https://img.shields.io/badge/Gemini_Vision_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![ML Kit](https://img.shields.io/badge/ML_Kit-FF6F00?style=flat-square&logo=google&logoColor=white)
+
+- Gemini API
+- ML Kit
+- AI-Assisted Mobile Features
 
 ### State Management
-![Bloc](https://img.shields.io/badge/BLoC-13B9FD?style=flat-square)
-![Provider](https://img.shields.io/badge/Provider-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt_DI-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+- BLoC
+- Provider
+- Hilt Dependency Injection
 
 ---
 
-## Featured Projects
+# 🚀 Featured Project
 
-###[Calourie AI](https://github.com/saqibcheema/calourie_ai) — Smart Nutrition Tracker
+## 🍎 Calourie AI — Smart Nutrition Tracker
 
-A modern **Native Android** calorie tracking app powered by AI-assisted barcode scanning and manual meal entry. Built with production-grade architecture and a clean, performant UI.
+A modern Native Android calorie tracking application powered by AI-assisted nutrition tracking, barcode scanning, and offline-first architecture.
 
-**Key Features:**
-- **Smart Barcode Scanning** — Uses ML Kit + CameraX to scan products and fetch nutrition data via the OpenFoodFacts API
-- **Manual Meal Entry** — Log custom meals with portion, grams, and meal type validation
-- **Dynamic Dashboard** — Real-time calorie and macro tracking (protein / carbs / fat)
-- **Goal Calculator** — Automated BMR & TDEE-based daily macro goal calculation during onboarding
-- **Offline-First** — All data persisted locally with Room; works without internet
-- **Search & History** — Quickly access previously scanned items from the local cache
+### ✨ Key Features
 
-**Tech Stack:** `Kotlin` · `Jetpack Compose` · `Clean Architecture` · `MVVM + MVI-lite` · `Dagger Hilt` · `Room` · `Retrofit` · `ML Kit` · `CameraX` · `Coil` · `Coroutines + Flow`
----
+#### 📦 Smart Barcode Scanning
+- ML Kit + CameraX integration
+- Product lookup using OpenFoodFacts API
+- Instant nutrition information retrieval
 
-## 📊 GitHub Stats
+#### 🍽️ Manual Meal Entry
+- Custom meal logging
+- Portion and gram tracking
+- Meal-type categorization
 
-<div align="center">
+#### 📊 Dynamic Dashboard
+- Real-time calorie monitoring
+- Protein, Carbs, and Fat tracking
+- Daily progress visualization
 
-![Saqib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saqibcheema&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+#### 🎯 Goal Calculator
+- BMR calculation
+- TDEE estimation
+- Personalized macro targets
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saqibcheema&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+#### 📱 Offline-First Experience
+- Local persistence with Room Database
+- Works seamlessly without internet connectivity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=saqibcheema&theme=tokyonight&hide_border=true)
+### 🛠 Built With
 
-</div>
+`Kotlin` • `Jetpack Compose` • `Clean Architecture` • `MVVM` • `Hilt` • `Room` • `Retrofit` • `ML Kit` • `CameraX` • `Coil` • `Coroutines` • `Flow`
 
----
-
-## 🌐 What I'm Looking For
-
-I'm actively looking for **remote junior mobile developer roles** with EU or Middle East startups where I can:
-
-- Ship real mobile products used by real people
-- Work with a senior engineer I can learn from
-- Contribute to both Flutter and Android (Kotlin) codebases
-- Grow into a mid-level engineer within 12–18 months
-
-I'm in **Pakistan Standard Time (UTC+5)** — comfortable with EU business hours overlap (mornings my time).
-
-📩 **Reach me:** [saqibyu961@gmail.com](mailto:saqibyu961@gmail.com) · [LinkedIn](https://www.linkedin.com/in/saqib-cheema)
+🔗 **Project Repository:**  
+<https://github.com/saqibcheema/calourie_ai>
 
 ---
 
-<div align="center">
+## 📊 GitHub Analytics
 
-*"First, make it work. Then make it right. Then make it fast."*
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saqibcheema&show_icons=true&theme=tokyonight"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=saqibcheema&color=6366F1&style=flat-square)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibcheema&layout=compact&theme=tokyonight"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saqibcheema&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌱 Current Focus
+
+### Open Source & GSoC 2027
+
+- Contributing to Flutter, Dart, and related ecosystems
+- Learning large-scale codebase navigation
+- Improving C++ and system-level engineering skills
+- Preparing for Google Summer of Code 2027
+
+### Mobile Engineering
+
+- Advanced Android Development with Jetpack Compose
+- Scalable Flutter Architectures
+- AI-powered mobile applications
+- Production-ready app development
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** saqibyu961@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/saqibcheema
+
+🐙 **GitHub:**  
+https://github.com/saqibcheema
+
+---
+
+<p align="center">
+  <i>"First, make it work. Then make it right. Then make it fast."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saqibcheema&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
