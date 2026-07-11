@@ -1,183 +1,107 @@
-<h1 align="center">Hi 👋, I'm Muhammad Saqib Ali</h1>
+<div align="center">
 
-<p align="center">
-  <b>Mobile Engineer • Flutter & Kotlin/Compose • Clean Architecture • Open Source Enthusiast</b>
-</p>
+<!-- Typing header -->
+Typing SVG
 
-<p align="center">
-  📍 Wazirabad, Pakistan &nbsp;|&nbsp; 🚀 Transitioning from App-Level to System-Level Engineering
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/saqibcheema">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:saqibyu961@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/saqibcheema">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+Mobile Engineer · Flutter & Kotlin/Compose · Open Source · System-Level Thinking
+Wazirabad, Pakistan &nbsp;·&nbsp; Actively Contributing to OSS
 
----
+LinkedIn
+Email
+GitHub
 
-## 🧑‍💻 About Me
+</div>
 
-I build mobile applications designed for real-world users, not just demo projects.
+🧑‍💻 About Me
+I build mobile apps that need to work in the real world, not just in tutorials.
 
-My experience primarily revolves around **Flutter** and **Native Android Development** using **Kotlin**, **Jetpack Compose**, **Clean Architecture**, and **MVVM**. I focus on building maintainable, scalable systems that remain easy to extend long after the initial release.
+Most of my work is in Flutter and native Android with Kotlin and Jetpack Compose. I care about architecture that doesn't fall apart when the project grows, so I use Clean Architecture and MVVM with proper separation of concerns. Data persistence, offline behavior, state management — I think about all of it upfront, not as an afterthought.
 
-Recently, my interests have expanded beyond application development. I'm actively exploring **C++**, **Data Structures & Algorithms**, and **system-level engineering** to better understand how frameworks, compilers, and developer tooling work under the hood.
+The difference between me and most juniors? I don't just chase features that demo well. I build systems that other developers can actually maintain six months later.
 
-🎓 BS Computer Science Student — University of Chenab
+But now, I'm shifting gears. While building apps taught me how to use frameworks, I am now deeply passionate about understanding how they are built. I am diving into C++, Data Structures, and Compiler Tooling to explore the Dart/Flutter ecosystem under the hood.
 
-🎯 Long-Term Goal:
-Contribute deeply to Open Source and prepare for **Google Summer of Code (GSoC) 2027** while strengthening my understanding of software systems beyond the application layer.
+Currently in my Final year at University of Chenab. I have a solid 6-month window to deeply contribute to Open Source, aiming to crack Google Summer of Code (GSoC) 2027 before I graduate.
 
----
+🛠️ Tech Stack
+Mobile Development
+Flutter
+Dart
+Kotlin
+Jetpack Compose
+Android
 
-## 🛠️ Tech Stack
+Core Fundamentals & System Level
+C++
+Data Structures
+OOP
 
-### Mobile Development
+Architecture & Patterns
+Clean Architecture
+MVVM
+Repository Pattern
+Offline First
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" />
-</p>
+Backend & Data
+Firebase
+Room
+Retrofit
+REST APIs
 
-### Core Fundamentals
+AI & ML
+Gemini API
+ML Kit
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp" />
-</p>
+State Management
+Bloc
+Provider
+Hilt
 
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Problem Solving
+Featured Projects
+###Calourie AI — Smart Nutrition Tracker
 
-### Architecture & Patterns
+A modern Native Android calorie tracking app powered by AI-assisted barcode scanning and manual meal entry. Built with production-grade architecture and a clean, performant UI.
 
-- Clean Architecture
-- MVVM
-- Repository Pattern
-- Offline-First Development
+Key Features:
 
-### Backend & Data
+Smart Barcode Scanning — Uses ML Kit + CameraX to scan products and fetch nutrition data via the OpenFoodFacts API
+Manual Meal Entry — Log custom meals with portion, grams, and meal type validation
+Dynamic Dashboard — Real-time calorie and macro tracking (protein / carbs / fat)
+Goal Calculator — Automated BMR & TDEE-based daily macro goal calculation during onboarding
+Offline-First — All data persisted locally with Room; works without internet
+Search & History — Quickly access previously scanned items from the local cache
+Tech Stack: Kotlin · Jetpack Compose · Clean Architecture · MVVM + MVI-lite · Dagger Hilt · Room · Retrofit · ML Kit · CameraX · Coil · Coroutines + Flow
 
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase" />
-</p>
+📊 GitHub Stats
+<div align="center">
 
-- Firebase
-- Room Database
-- Retrofit
-- REST APIs
+Saqib&#39;s GitHub Stats
 
-### AI & ML
+Top Languages
 
-- Gemini API
-- ML Kit
-- AI-Assisted Mobile Features
+GitHub Streak
 
-### State Management
+</div>
 
-- BLoC
-- Provider
-- Hilt Dependency Injection
+🌐 What I'm Looking For
+I am currently focusing on two tracks before my graduation in Oct 2027:
 
----
+1. Open Source & GSoC '27 (Primary Focus)
 
-# 🚀 Featured Project
+Hunting for good-first-issue tags in the Dart, Flutter, or related C++ ecosystems.
+Eager to learn how to navigate massive codebases, read compiler code, and pass strict code reviews.
+Open to collaborating with mentors who can guide me in system-level contributions.
+2. Remote Mobile Engineering Roles
 
-## 🍎 Calourie AI — Smart Nutrition Tracker
+Open to remote junior mobile developer roles (EU / Middle East / PK) where I can ship real products while contributing to Open Source on the side.
+I'm in Pakistan Standard Time (UTC+5) — comfortable with EU business hours overlap (mornings my time).
 
-A modern Native Android calorie tracking application powered by AI-assisted nutrition tracking, barcode scanning, and offline-first architecture.
+📩 Reach me: saqibyu961@gmail.com · LinkedIn
 
-### ✨ Key Features
+<div align="center">
 
-#### 📦 Smart Barcode Scanning
-- ML Kit + CameraX integration
-- Product lookup using OpenFoodFacts API
-- Instant nutrition information retrieval
+"First, make it work. Then make it right. Then make it fast."
 
-#### 🍽️ Manual Meal Entry
-- Custom meal logging
-- Portion and gram tracking
-- Meal-type categorization
-
-#### 📊 Dynamic Dashboard
-- Real-time calorie monitoring
-- Protein, Carbs, and Fat tracking
-- Daily progress visualization
-
-#### 🎯 Goal Calculator
-- BMR calculation
-- TDEE estimation
-- Personalized macro targets
-
-#### 📱 Offline-First Experience
-- Local persistence with Room Database
-- Works seamlessly without internet connectivity
-
-### 🛠 Built With
-
-`Kotlin` • `Jetpack Compose` • `Clean Architecture` • `MVVM` • `Hilt` • `Room` • `Retrofit` • `ML Kit` • `CameraX` • `Coil` • `Coroutines` • `Flow`
-
-🔗 **Project Repository:**  
-<https://github.com/saqibcheema/calourie_ai>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saqibcheema&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibcheema&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=saqibcheema&theme=tokyonight"/>
-</p>
-
----
-
-## 🌱 Current Focus
-
-### Open Source & GSoC 2027
-
-- Contributing to Flutter, Dart, and related ecosystems
-- Learning large-scale codebase navigation
-- Improving C++ and system-level engineering skills
-- Preparing for Google Summer of Code 2027
-
-### Mobile Engineering
-
-- Advanced Android Development with Jetpack Compose
-- Scalable Flutter Architectures
-- AI-powered mobile applications
-- Production-ready app development
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** saqibyu961@gmail.com
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/saqib-cheema
-
-🐙 **GitHub:**  
-https://github.com/saqibcheema
-
----
-
-<p align="center">
-  <i>"First, make it work. Then make it right. Then make it fast."</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saqibcheema&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+Profile Views
