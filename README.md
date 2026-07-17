@@ -146,8 +146,6 @@ https://github.com/saqibcheema/calourie_ai
 
 - 📧 Email: [saqibyu961@gmail.com](mailto:saqibyu961@gmail.com)
 - 💼 LinkedIn: https://linkedin.com/in/saqib-cheema
-- 🐙 GitHub: https://github.com/saqibcheema
-
 ---
 
 <p align="center">
